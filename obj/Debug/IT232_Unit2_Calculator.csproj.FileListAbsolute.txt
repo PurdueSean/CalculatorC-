@@ -1,0 +1,30 @@
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.exe.config
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.exe
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.pdb
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csprojAssemblyReference.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.Calculator.resources
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.Properties.Resources.resources
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csproj.GenerateResource.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csproj.CoreCompileInputs.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.exe
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.pdb
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.exe.config
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.exe
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.pdb
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csprojAssemblyReference.cache
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.Calculator.resources
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.Properties.Resources.resources
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csproj.GenerateResource.cache
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.exe
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.pdb
+C:\Users\Sean\Dropbox\Purdue Global School Files\Software Design and Development Concepts\Unit 2 - Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csproj.CoreCompileInputs.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.exe.config
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.exe
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\bin\Debug\IT232_Unit2_Calculator.pdb
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csprojAssemblyReference.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.Calculator.resources
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.Properties.Resources.resources
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csproj.GenerateResource.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.csproj.CoreCompileInputs.cache
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.exe
+H:\Documents\Purdue Global School Files\Software Design and Development Concepts\Unit 2 Calculator\IT232_Unit2_Calculator\IT232_Unit2_Calculator\obj\Debug\IT232_Unit2_Calculator.pdb
